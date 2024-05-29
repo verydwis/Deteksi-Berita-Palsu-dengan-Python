@@ -5,7 +5,7 @@ Sebelumnya, percobaan ini telah dilakukan oleh [Data-Flair](https://data-flair.t
 
 Saya melakukan percobaan ini dengan menggunakan Google Colaboratory.
 
-Hasil percobaan yang saya lakukan dapat dilihat [di sini](https://colab.research.google.com/drive/1devttGsOx6KMDdLcOROAu0hK006NLVPR?usp=sharing).
+Hasil percobaan yang saya lakukan dapat dilihat [di sini](https://colab.research.google.com/drive/1MTCTmfoIR0JN-3XpHxLKZbkHM-IYgf85?usp=sharing).
 
 ## TF-IDF Vectorizer
 - TF atau term frequency adalah skema pembobotan yang digunakan untuk menentukan relevansi dokumen dengan sebuah term (kata). TF menentukan bobot relevansi sebuah dokumen dan term berdasarkan frekuensi kemunculan term pada dokumen terkait. [1]

@@ -8,10 +8,6 @@ Original file is located at
 
 # Pendeteksian Berita Palsu dengan Python
 
-Selasa, 21 Desember 2021
-
-Muhamad Abdul Karim
-
 Sumber: [Data-Flair](https://data-flair.training/)
 """
 
